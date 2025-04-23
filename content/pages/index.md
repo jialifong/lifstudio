@@ -211,7 +211,7 @@ sections:
       Strategy and
       Structure Designed for Where You Are—and Where You’re Headed.
     items:
-      - title: Feature Item One
+      - title: Brand Strategy
         tagline: STRATEGIC CLARITY
         subtitle: This is the item subtitle
         text: |
