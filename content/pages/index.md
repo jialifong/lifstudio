@@ -152,7 +152,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Start Brand Story
+            label: Start Brand Sprint
             altText: ''
             url: /contact-form
             showIcon: false
