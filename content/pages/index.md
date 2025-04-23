@@ -318,13 +318,6 @@ sections:
           width: full
           type: TextareaFormControl
           isRequired: true
-        - type: TextFormControl
-          name: form-name
-          label: form-name
-          hideLabel: true
-          placeholder: contact-form
-          isRequired: false
-          width: full
       elementId: contact-form
       styles:
         self:
