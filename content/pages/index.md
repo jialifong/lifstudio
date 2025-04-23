@@ -157,8 +157,14 @@ sections:
       type: TitleBlock
     subtitle: It's a Survival Strategy
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      When teams start scaling, context shifts and decisions pile up.
+
+
+      Without clarity, teams chase too many things, say too much, and stall out.
+
+
+      But when a brand knows who it’s for, what it stands for, and where it’s
+      headed
     actions:
       - label: Get started
         url: /
