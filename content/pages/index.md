@@ -195,7 +195,7 @@ sections:
           *   Team Mentoring & Roadmap Reviews
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/icon2.svg
           altText: Placeholder image
           styles:
             self:
