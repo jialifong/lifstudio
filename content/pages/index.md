@@ -359,7 +359,7 @@ sections:
   - type: RecentPostsSection
     title:
       type: TitleBlock
-      text: Recent posts
+      text: Thinking & Learning Out Loud
       color: text-dark
       styles:
         self:
