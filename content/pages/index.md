@@ -190,6 +190,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: marketing-strategy
       - title: Fractional Leadership
         tagline: EMBEDDED SUPPORT
         subtitle: >-
