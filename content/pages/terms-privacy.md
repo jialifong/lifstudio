@@ -18,7 +18,7 @@ sections:
       Terms of Use and Privacy Policy.
 
 
-      ## Terms of Use
+      ### **Terms of Use**
 
 
       **Who We Are**
@@ -63,7 +63,7 @@ sections:
       any updates.
 
 
-      Privacy Policy
+      ### **Privacy Policy**
 
 
       **Information We Collect**
