@@ -360,7 +360,7 @@ sections:
     title:
       type: TitleBlock
       text: Thinking & Learning Out Loud
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
