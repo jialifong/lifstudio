@@ -65,7 +65,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Website Image (2).png
       altText: Fun feature preview
     badge:
       type: Badge
