@@ -377,6 +377,7 @@ sections:
     styles:
       self:
         justifyContent: center
+    subtitle: Field Notes from the Studio - in Work and Life
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
