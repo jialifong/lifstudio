@@ -1,5 +1,5 @@
 ---
-title: Why Clarity and Focus Aren’t Just Business Tools—They’re Survival Strategies
+title: Marketing isn’t Magic. Its Structure
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
