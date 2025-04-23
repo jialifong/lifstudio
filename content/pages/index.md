@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Clarity is a Growth Strategy
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: 'It’s confidence in what now, and what’s next.'
     text: >
