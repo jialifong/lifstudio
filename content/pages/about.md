@@ -144,7 +144,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Aligned Teams and Growth
-        subtitle: Engineering
+        subtitle: ''
         text: |+
           Get everyone on the same page—and keep momentum as you scale.
 
