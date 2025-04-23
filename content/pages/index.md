@@ -223,7 +223,7 @@ sections:
           - type: Button
             label: Book Intro Call
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
