@@ -37,7 +37,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/Website Image (1).png
   - type: GenericSection
     title:
       type: TitleBlock
@@ -65,7 +65,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/Website Image (2).png
       altText: Fun feature preview
     badge:
       type: Badge
@@ -208,7 +208,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Start Now
-        url: /contact-form
+        url: '#contact-form'
         icon: arrowRight
         iconPosition: right
         style: primary
