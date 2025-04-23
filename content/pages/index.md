@@ -322,7 +322,7 @@ sections:
           name: form-name
           label: form-name
           hideLabel: true
-          placeholder: Your name
+          placeholder: contact-form
           isRequired: true
           width: full
       elementId: contact-form
