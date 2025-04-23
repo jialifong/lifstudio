@@ -321,7 +321,7 @@ sections:
       No pitch. No pressure. Just structured space to think out loud and explore
       what’s next.
     actions:
-      - label: Get started
+      - label: Enquiry
         url: /
         icon: arrowRight
         iconPosition: right
