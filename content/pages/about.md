@@ -85,7 +85,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Led by Experience.
+      text: Led by Experience. Grounded in Reinvention.
       color: text-dark
     subtitle: Be in good company
     text: >
