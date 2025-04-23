@@ -274,9 +274,10 @@ sections:
         subtitle: >-
           For teams needing high-trust, strategy guidance—without a full-time
           hire.
-        text: >+
-          *   2-4 Sessions per Month*   Strategic Oversight*   Team Mentoring &
-          Roadmap Reviews
+        text: |+
+          *   2-4 Sessions per Month
+          *   Strategic Oversight
+          *   Team Mentoring & Roadmap Reviews
 
         image:
           url: /images/abstract-feature1.svg
