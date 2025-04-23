@@ -318,7 +318,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: What would be helpful for us to explore together?
           width: full
           type: TextareaFormControl
       elementId: contact-form
