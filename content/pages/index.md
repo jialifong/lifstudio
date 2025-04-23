@@ -317,9 +317,9 @@ sections:
     subtitle: >-
       Occasionally, 1:1 sessions open for those navigating change—career,
       leadership, or life.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      No pitch. No pressure. Just structured space to think out loud and explore
+      what’s next.
     actions:
       - label: Get started
         url: /
