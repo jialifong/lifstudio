@@ -166,7 +166,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Start Growing with Clarity
+      - label: Start Now
         url: /
         icon: arrowRight
         iconPosition: right
