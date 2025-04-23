@@ -208,7 +208,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Get started
+            label: Book Intro Call
             altText: ''
             url: /contact-form
             showIcon: false
