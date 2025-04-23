@@ -60,7 +60,7 @@
         },
         {
             "label": "Privacy",
-            "url": "/",
+            "url": "/terms-privacy",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
