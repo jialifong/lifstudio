@@ -216,8 +216,13 @@ sections:
         subtitle: >-
           For brands needing to sharpen its message, refine its voice, or tell
           its story with confidence.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          *   Brand Narrative
+
+          *   Messaging Hierarchy
+
+          *   Communications Alignment
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
