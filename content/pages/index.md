@@ -174,7 +174,7 @@ sections:
 
       Lif helps make that happen.
     actions:
-      - label: Get started
+      - label: About the Studio
         url: /
         icon: arrowRight
         iconPosition: right
