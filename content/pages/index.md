@@ -369,7 +369,16 @@ sections:
     showExcerpt: false
     showDate: false
     showAuthor: false
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /blog
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
