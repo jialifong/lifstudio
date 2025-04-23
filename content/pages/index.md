@@ -386,6 +386,8 @@ sections:
     styles:
       self:
         justifyContent: center
+      subtitle:
+        textAlign: center
     subtitle: Field Notes from the Studio - in Work and Life
 seo:
   metaTitle: Home - Demo site
