@@ -366,8 +366,8 @@ sections:
           textAlign: center
     recentCount: 3
     showThumbnail: true
-    showExcerpt: true
-    showDate: true
+    showExcerpt: false
+    showDate: false
     showAuthor: true
     actions: []
     elementId: ''
