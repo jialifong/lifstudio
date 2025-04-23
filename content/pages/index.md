@@ -313,7 +313,7 @@ sections:
           type: EmailFormControl
         - name: message
           label: Message
-          hideLabel: true
+          hideLabel: false
           placeholder: What would be helpful for us to explore together?
           width: full
           type: TextareaFormControl
