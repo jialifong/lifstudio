@@ -89,7 +89,7 @@ sections:
         iconPosition: right
         style: primary
         type: Button
-      - label: See Tutorials
+      - label: Get in Touch
         url: /
         showIcon: true
         icon: arrowRight
