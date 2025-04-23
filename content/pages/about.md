@@ -89,7 +89,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: 'Lif helps brands move with focus, structure, and confidence.'
     items:
       - title: Account Executive
         subtitle: Sales
