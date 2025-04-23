@@ -117,7 +117,7 @@ sections:
           *   Communications Alignment
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/icon3.svg
           altText: Placeholder Image
           styles:
             self:
