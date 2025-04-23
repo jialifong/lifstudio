@@ -231,7 +231,7 @@ sections:
       what’s next.
     actions:
       - label: Enquiry
-        url: /
+        url: /contact-form
         icon: arrowRight
         iconPosition: right
         style: secondary
