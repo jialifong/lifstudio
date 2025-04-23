@@ -320,7 +320,7 @@ sections:
           isRequired: true
         - type: TextFormControl
           name: form-name
-          label: Name
+          label: form-name
           hideLabel: true
           placeholder: Your name
           isRequired: true
