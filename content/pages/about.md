@@ -87,7 +87,7 @@ sections:
       type: TitleBlock
       text: Led by Experience. Grounded in Reinvention.
       color: text-dark
-    subtitle: Be in good company
+    subtitle: Bringing Global Brand Experiences to Fast-Moving Growing Teams.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
