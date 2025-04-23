@@ -43,7 +43,7 @@
                 },
                 {
                     "label": "Marketing Strategy",
-                    "url": "/",
+                    "url": "/marketing-strategy",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
