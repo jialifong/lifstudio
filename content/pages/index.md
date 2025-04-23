@@ -9,9 +9,8 @@ sections:
       type: TitleBlock
     subtitle: 'It’s confidence in what now, and what’s next.'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Lif helps teams align vision, strategy, and execution—so momentum isn’t
+      just possible, it’s planned.
     actions:
       - label: Get started
         altText: ''
