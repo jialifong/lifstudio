@@ -314,7 +314,9 @@ sections:
       text: Need a Sounding Board?
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: >-
+      Occasionally, 1:1 sessions open for those navigating change—career,
+      leadership, or life.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
