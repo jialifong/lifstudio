@@ -241,7 +241,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Marketing Planning
+      - title: Marketing Strategy
         tagline: STRATEGIC CLARITY
         subtitle: This is the item subtitle
         text: |
