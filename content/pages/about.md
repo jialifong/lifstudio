@@ -208,7 +208,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Start Now
-        url: /contact-form
+        url: '#contact-form'
         icon: arrowRight
         iconPosition: right
         style: primary
