@@ -311,7 +311,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Business Consulting
+      text: Need a Sounding Board?
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
