@@ -271,7 +271,9 @@ sections:
         type: FeaturedItem
       - title: Fractional Leadership
         tagline: EMBEDDED SUPPORT
-        subtitle: This is the item subtitle
+        subtitle: >-
+          For teams needing high-trust, strategy guidance—without a full-time
+          hire.
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
