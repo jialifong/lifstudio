@@ -213,7 +213,9 @@ sections:
     items:
       - title: Brand Strategy
         tagline: STRATEGIC CLARITY
-        subtitle: This is the item subtitle
+        subtitle: >-
+          For brands needing to sharpen its message, refine its voice, or tell
+          its story with confidence.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
