@@ -244,8 +244,13 @@ sections:
       - title: Marketing Strategy
         tagline: STRATEGIC CLARITY
         subtitle: For brands who are doing a lot but aren't gaining traction.
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: |+
+          *   Marketing Audit
+
+          *   Channel Strategy
+
+          *   Campaign & GTM Roadmap
+
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
