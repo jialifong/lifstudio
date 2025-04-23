@@ -82,7 +82,7 @@ sections:
         type: Link
     media:
       url: /images/Website Image.png
-      altText: Fun feature preview
+      altText: Clarity block
       type: ImageBlock
     badge:
       label: THE BELIEFS THAT SHAPE THE WORK
