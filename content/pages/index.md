@@ -321,7 +321,7 @@ sections:
         - type: TextFormControl
           name: form-name
           label: form-name
-          hideLabel: true
+          hideLabel: false
           placeholder: contact-form
           isRequired: false
           width: full
