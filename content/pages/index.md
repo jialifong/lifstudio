@@ -156,7 +156,7 @@ sections:
           *   Campaign & GTM Roadmap
 
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/icon1.svg
           altText: Placeholder image
           styles:
             self:
