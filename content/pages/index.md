@@ -260,7 +260,7 @@ sections:
       No pitch. No pressure. Just structured space to think out loud and explore
       what’s next.
     actions:
-      - label: Enquiry
+      - label: Enquire Clarity Call
         url: /contact-form
         icon: arrowRight
         iconPosition: right
