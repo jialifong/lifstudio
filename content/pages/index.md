@@ -162,9 +162,17 @@ sections:
 
       Without clarity, teams chase too many things, say too much, and stall out.
 
-
       But when a brand knows who it’s for, what it stands for, and where it’s
-      headed
+      headed—
+
+      everything aligns
+
+
+      **Focus sharpens. Messaging lands. Plan gets traction. Teams move
+      faster.**
+
+
+      Lif helps make that happen.
     actions:
       - label: Get started
         url: /
