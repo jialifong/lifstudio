@@ -88,9 +88,24 @@ sections:
       text: Led by Experience. Grounded in Reinvention.
       color: text-dark
     subtitle: Bringing Global Brand Experiences to Fast-Moving Growing Teams.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      Lif is led by J. Li Fong—a brand and marketing strategist with 15+ years
+      across global FMCG and early-stage ventures\*. Known for combining
+      strategic clarity with executional empathy, she supports teams moving from
+      scattered to structured.
+
+
+      Alongside her strategy work, she brings a certified coaching
+      lens—listening deeply, noticing what sits beneath the surface, and helping
+      leaders realign
+
+      with confidence in moments of change.
+
+
+      *\*Previously: EY, Nestlé. Mattel. Standard Chartered Ventures*
+
+
+
     actions:
       - type: Button
         label: Get started
