@@ -93,10 +93,19 @@ sections:
     items:
       - title: Clear Brand & Messaging
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Build an identity and story that reflect who you are *and* where
+          you’re going.
+
+
+          *   Aligned identity that grows with you
+
+
+          *   Messaging that resonates across channels
+
+
+          *   Clear brand story that cuts through confusion
+
         colors: bg-neutral-fg-dark
         styles:
           self:
