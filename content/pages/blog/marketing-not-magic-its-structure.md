@@ -1,6 +1,6 @@
 ---
 title: Marketing isn’t Magic. Its Structure
-slug: top-ten-lessons-we-learned
+slug: marketing-not-magic-its-structure
 date: '2025-01-02'
 excerpt: >-
   In a world chasing viral moments and clever lines, it’s easy to believe the
