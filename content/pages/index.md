@@ -209,7 +209,7 @@ sections:
       type: TitleBlock
     subtitle: |-
       Strategy and
-      Structure Designed for Where You Are—And Where You’re Headed.
+      Structure Designed for Where You Are—and Where You’re Headed.
     items:
       - title: Feature Item One
         tagline: This is the tagline
