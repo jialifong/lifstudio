@@ -184,7 +184,7 @@ sections:
           - type: Button
             label: Build Marketing Plan
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
