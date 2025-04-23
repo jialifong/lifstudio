@@ -145,7 +145,7 @@ sections:
           - type: Button
             label: Start Brand Sprint
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
