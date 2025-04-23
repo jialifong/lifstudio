@@ -91,7 +91,7 @@ sections:
       type: TitleBlock
     subtitle: 'Lif helps brands move with focus, structure, and confidence.'
     items:
-      - title: Account Executive
+      - title: Clear Brand & Messaging
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
