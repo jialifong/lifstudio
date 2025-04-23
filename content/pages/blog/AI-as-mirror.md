@@ -3,10 +3,12 @@ title: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
 slug: AI-as-mirror
 date: '2024-03-26'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+  When you work solo, clarity doesn’t come from brainstorms or boardrooms—it has
+  to come from within. But sometimes, even your own thoughts feel too close to
+  untangle. That’s where tools like AI come in—not to replace thinking, but to
+  reflect it. In this piece, we explore how AI became less of a novelty and more
+  of a quiet companion: helping shape messy ideas, stress-test strategy, and
+  bring clarity to the work when the room goes silent.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
