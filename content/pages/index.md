@@ -337,7 +337,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: PERSONAL CLARITY
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
