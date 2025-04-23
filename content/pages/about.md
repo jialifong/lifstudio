@@ -167,7 +167,7 @@ sections:
         type: FeaturedItem
     actions:
       - label: Start Now
-        url: /
+        url: /contact-form
         icon: arrowRight
         iconPosition: right
         style: primary
