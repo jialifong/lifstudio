@@ -77,6 +77,13 @@
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "https://www.instagram.com/lifstudio.co/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
