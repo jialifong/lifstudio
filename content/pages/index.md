@@ -190,7 +190,7 @@ sections:
         type: FeaturedItem
         actions:
           - type: Button
-            label: Build Your Plan
+            label: Build Marketing Plan
             altText: ''
             url: /contact-form
             showIcon: false
