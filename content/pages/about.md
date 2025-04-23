@@ -43,7 +43,9 @@ sections:
       type: TitleBlock
       text: 'Strategic Clarity for Growth, Transition and Decision-Making.'
       color: text-dark
-    subtitle: Lif helps
+    subtitle: >-
+      Lif helps find clarity—especially in period of growth, transition, or
+      decision fatigue.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
