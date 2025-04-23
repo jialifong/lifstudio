@@ -229,6 +229,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: fractional-leadership
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
