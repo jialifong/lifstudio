@@ -43,6 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Homepage-hero.png
   - title: Divider
     colors: bg-light-fg-dark
     styles:
