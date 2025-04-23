@@ -259,7 +259,7 @@ sections:
         style: secondary
         type: Button
       - label: Why Personal Clarity Matters
-        url: /
+        url: /clarity-survival-strategy
         showIcon: true
         icon: arrowRight
         iconPosition: right
