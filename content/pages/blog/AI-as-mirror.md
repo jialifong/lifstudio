@@ -26,51 +26,99 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+In big teams, you have rooms.
+Rooms full of ideas. Stakeholders. Healthy friction. Sometimes too much.
+But still—someone to push back. To sharpen the message. To say, *“wait, is that really the point?”*
 
-Starting a business is no small feat. It’s a journey filled with challenges, risks, and countless decisions that can make or break your startup. One of the most critical decisions you'll make isn’t about your product or market—it's about the people you surround yourself with.
+When you go solo—whether as a founder, strategist, or creative—the rooms get quieter.
+And that silence, while freeing, can also feel disorienting.
 
-## Why the Right People Matter
+There’s no whiteboard debate. No casual sparring.
+Just you, your thoughts, and a blinking cursor.
 
-In the early stages of a startup, every team member plays a crucial role. The right people bring not only their skills but also their energy, attitude, and resilience. They’re the ones who will stick with you through thick and thin, help navigate obstacles, and push the company toward success.
+That’s when tools like AI become surprisingly helpful.
+Not to do the work for you—but to help you hear yourself again.
 
-### 1. Shared Vision
+#### **How AI Became My Work Comrade**
 
-Having a team that aligns with your vision is essential. People who understand and believe in your mission will work tirelessly to see it come to life. They’ll be your champions, your sounding boards, and your biggest supporters.
+I didn’t turn to AI out of novelty.
+I turned to it out of necessity.
 
-### 2. Diverse Skills
+When you’re used to working in teams, you underestimate how often clarity comes from interaction—not inspiration.
+A good question. A raised eyebrow. A colleague who makes you rethink a slide.
 
-Surround yourself with individuals whose skills complement yours. A diverse team brings different perspectives, ideas, and solutions to the table. This diversity is invaluable when it comes to innovation and problem-solving.
+Alone, those cues disappear.
+But the need for clarity doesn’t.
 
-### 3. Positive Energy
+I began using AI the way I’d once used a teammate or a post-it wall:
+To shape half-thoughts into something tangible.
+To hold space for questions before I had answers.
+To be a calm, unbiased mirror when my own thinking felt too close to call.
 
-Startups are demanding, and the road to success can be bumpy. Positive, resilient individuals help maintain morale and keep the team motivated, even during tough times. Their optimism can be infectious, boosting the entire team's spirit.
+A space to say the messy thing—and have it handed back in a new shape.
+Not perfectly, but productively.
+Not to be more clever.
+But to see what I was really circling around.
 
-### 4. Constructive Criticism
+#### **Where It Helps Me Most**
 
-You need people who can provide honest, constructive feedback. Yes-men won’t help you grow; critical thinkers will. Surround yourself with people who challenge your ideas and push you to refine and improve them.
+1\. Framing a messy thought
 
-### 5. Cultural Fit
+I might ask:
 
-Beyond skills and experience, cultural fit is crucial. A cohesive team culture fosters better communication, collaboration, and a more enjoyable work environment. This leads to higher productivity and lower turnover.
+> *“Can you rewrite this idea in three styles: reflective, strategic, and mentoring?”*
 
-## How to Find the Right People
+Not to choose the perfect one. But to see what’s beneath the tone.
 
-### 1. Network Intentionally
+#### 2. Sparring without ego
 
-Attend industry events, join startup communities, and engage with like-minded individuals. Networking intentionally can help you find people who share your values and aspirations.
+Sometimes I’ll prompt:
 
-### 2. Leverage Referrals
+> *“What’s missing from this positioning statement?”*
 
-Ask your existing network for referrals. People you trust are likely to introduce you to other reliable and skilled professionals.
+Or:
 
-### 3. Assess Soft Skills
+> *“What would a sceptical founder push back on?”*
 
-During the hiring process, don’t just focus on technical abilities. Assess candidates' soft skills, such as communication, adaptability, and teamwork, which are crucial in a startup environment.
+It helps me stress-test ideas—without the pressure of performance.
 
-### 4. Trial Periods
+##### 3. Drafting the structure before the voice
 
-Consider trial periods for new hires. This allows both parties to assess fit and compatibility before making a long-term commitment.
+I’ll request:
 
-## Conclusion
+> *“Outline a blog post about the cost of misalignment in early startups.”*
 
-In the journey of building a startup, the people you surround yourself with can significantly impact your success. By choosing individuals who share your vision, bring diverse skills, and contribute positively to the company culture, you’ll create a strong foundation for growth. Remember, the right team can turn your startup dream into a reality.
+Then I go in and write the real parts myself.
+
+#### **What I Don’t Use It For**
+
+This matters.
+I don’t use AI to sound smarter.
+I don’t use it to write things I don’t mean.
+And I definitely don’t use it to bypass the thinking.
+
+The value isn’t in what it says.
+It’s in what it reflects back.
+
+Because strategy isn’t about having more ideas.
+It’s about making fewer, clearer ones—and knowing why they matter.
+
+#### **A Quiet Companion for Clearer Thinking**
+
+In a world where founders, creatives, and solo strategists are expected to move fast, sound polished, and think in public—tools like AI offer something quietly powerful:
+
+*   A space to think without pressure
+
+*   A rhythm for reflection
+
+*   A partner that doesn’t interrupt
+
+AI won’t replace your strategy.
+But it might help you remember what you meant to say—before the noise got too loud.
+
+#### **Closing Thought**
+
+Just like a mirror, AI doesn’t change your face.
+It just shows you what’s already there—but couldn’t be seen clearly.
+
+For solo builders and thinkers, that reflection can be enough to move an ide
