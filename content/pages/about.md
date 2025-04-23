@@ -3,7 +3,7 @@ title: About
 slug: about
 sections:
   - title:
-      text: A team that works closely together
+      text: Lif Strategic Studio
       color: text-dark
       styles:
         self:
