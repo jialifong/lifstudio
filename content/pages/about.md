@@ -46,9 +46,22 @@ sections:
     subtitle: >-
       Lif helps find clarity—especially in period of growth, transition, or
       decision fatigue.
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      From brand strategy and marketing
+
+      planning to fractional leadership, every engagement is built to cut
+      through
+
+      complexity and create structure that makes growth sustainable.
+
+
+      Whether we’re clarifying a brand story, resetting a go-to-market plan, or
+
+      guiding teams through strategy, one belief anchors it all:
+
+
+      > **Clarity makes momentum possible.**
+
     actions:
       - type: Button
         label: Get started
