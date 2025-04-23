@@ -63,12 +63,6 @@ sections:
       > **Clarity makes momentum possible.**
 
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
