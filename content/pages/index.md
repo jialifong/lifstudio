@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /our-services
+        url: '#our-services'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -81,7 +81,7 @@ sections:
         style: primary
         type: Button
       - label: Get in Touch
-        url: /contact-form
+        url: '#contact-form'
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -145,7 +145,7 @@ sections:
           - type: Button
             label: Start Brand Sprint
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -184,7 +184,7 @@ sections:
           - type: Button
             label: Build Marketing Plan
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
@@ -223,7 +223,7 @@ sections:
           - type: Button
             label: Book Intro Call
             altText: ''
-            url: /contact-form
+            url: '#contact-form'
             showIcon: false
             icon: arrowRight
             iconPosition: right
