@@ -371,7 +371,7 @@ sections:
     showAuthor: false
     actions:
       - type: Button
-        label: Get started
+        label: Read More
         altText: ''
         url: /blog
         showIcon: false
