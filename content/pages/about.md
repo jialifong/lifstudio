@@ -41,7 +41,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: 'Strategic Clarity for Growth, Transition and Decision-Making.'
       color: text-dark
     subtitle: Increase your reach
     text: >
