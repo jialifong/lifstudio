@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: Why Clarity and Focus Aren’t Just Business Tools—They’re Survival Strategies
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
