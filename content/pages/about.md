@@ -145,10 +145,15 @@ sections:
         type: FeaturedItem
       - title: Aligned Teams and Growth
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          Get everyone on the same page—and keep momentum as you scale.
+
+          *   Internal alignment across teams and founders
+
+          *   Structure that supports scaling
+
+          *   A thinking partner in high-stakes moments
+
         colors: bg-neutral-fg-dark
         styles:
           self:
