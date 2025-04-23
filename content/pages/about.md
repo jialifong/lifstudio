@@ -37,7 +37,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/Website Image (1).png
   - type: GenericSection
     title:
       type: TitleBlock
