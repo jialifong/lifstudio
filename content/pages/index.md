@@ -152,7 +152,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Social Media Management
+      text: Clarity isn't a Luxury.
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
