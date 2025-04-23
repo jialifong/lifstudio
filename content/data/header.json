@@ -35,7 +35,7 @@
             "links": [
                 {
                     "label": "Dropdown item",
-                    "url": "/",
+                    "url": "/brand-strategy",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
