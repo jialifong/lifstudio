@@ -258,7 +258,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
+      - label: Why Personal Clarity Matters
         url: /
         showIcon: true
         icon: arrowRight
