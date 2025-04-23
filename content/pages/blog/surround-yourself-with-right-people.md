@@ -1,5 +1,5 @@
 ---
-title: Surround Yourself With the Right People
+title: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
 slug: surround-yourself-with-right-people
 date: '2024-03-26'
 excerpt: >-
