@@ -212,7 +212,7 @@ sections:
       Structure Designed for Where You Are—and Where You’re Headed.
     items:
       - title: Feature Item One
-        tagline: This is the tagline
+        tagline: STRATEGIC CLARITY
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
