@@ -43,7 +43,7 @@ sections:
       type: TitleBlock
       text: 'Strategic Clarity for Growth, Transition and Decision-Making.'
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Lif helps
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
