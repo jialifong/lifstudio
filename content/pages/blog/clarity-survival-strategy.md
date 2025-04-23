@@ -1,6 +1,6 @@
 ---
 title: Why Clarity and Focus Aren’t Just Business Tools—They’re Survival Strategies
-slug: life-of-our-development-team
+slug: clarity-survival-strategy
 date: '2025-01-15'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
