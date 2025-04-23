@@ -207,7 +207,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: |-
+      Strategy And
+      Structure Designed For Where You Are—And Where You’re Headed.
     items:
       - title: Feature Item One
         tagline: This is the tagline
