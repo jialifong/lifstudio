@@ -143,7 +143,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Senior Software Engineer
+      - title: Aligned Teams and Growth
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
