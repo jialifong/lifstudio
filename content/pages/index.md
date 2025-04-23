@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: YOUR CLARITY-DRIVEN PARTNER
-      color: text-primary
+      color: text-neutral
       type: Badge
     elementId: ''
     colors: bg-light-fg-dark
