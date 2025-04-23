@@ -24,6 +24,7 @@ styles:
   self:
     flexDirection: col
 isFeatured: false
+author: content/data/person1.json
 ---
 *And what happens when we try to move without them.*
 
