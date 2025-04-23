@@ -83,7 +83,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Open positions
+      text: What Clarity Makes Possible
       color: text-dark
       styles:
         self:
