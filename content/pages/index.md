@@ -321,6 +321,7 @@ sections:
           placeholder: What would be helpful for us to explore together?
           width: full
           type: TextareaFormControl
+          isRequired: true
       elementId: contact-form
       styles:
         self:
