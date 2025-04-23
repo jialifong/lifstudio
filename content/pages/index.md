@@ -21,11 +21,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: YOUR CLARITY-DRIVEN PARTNER
       color: text-dark
@@ -41,16 +36,14 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+    backgroundImage:
+      type: BackgroundImage
+      altText: ''
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/Homepage-hero.png
   - title:
       text: Clarity isn't a Luxury.
       color: text-dark
@@ -88,8 +81,8 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: /images/Website Image.png
+      altText: Clarity block
       type: ImageBlock
     badge:
       label: THE BELIEFS THAT SHAPE THE WORK
@@ -269,7 +262,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/Website Image (1).png
       altText: Dope design preview
       type: ImageBlock
     badge:
