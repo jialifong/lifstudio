@@ -92,7 +92,7 @@ sections:
     subtitle: 'Lif helps brands move with focus, structure, and confidence.'
     items:
       - title: Clear Brand & Messaging
-        subtitle: Sales
+        subtitle: ''
         text: >+
           Build an identity and story that reflect who you are *and* where
           you’re going.
