@@ -155,7 +155,7 @@ sections:
       text: Clarity isn't a Luxury.
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: It's a Survival Strategy
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
