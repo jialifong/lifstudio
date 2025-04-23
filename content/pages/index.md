@@ -243,7 +243,7 @@ sections:
         type: FeaturedItem
       - title: Marketing Strategy
         tagline: STRATEGIC CLARITY
-        subtitle: This is the item subtitle
+        subtitle: For brands who are doing a lot but aren't gaining traction.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
