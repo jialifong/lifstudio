@@ -81,7 +81,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/abstract-background.svg
+      url: /images/Website Image.png
       altText: Fun feature preview
       type: ImageBlock
     badge:
