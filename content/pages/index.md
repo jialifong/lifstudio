@@ -208,8 +208,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: |-
-      Strategy And
-      Structure Designed For Where You Are—And Where You’re Headed.
+      Strategy and
+      Structure Designed for Where You Are—And Where You’re Headed.
     items:
       - title: Feature Item One
         tagline: This is the tagline
