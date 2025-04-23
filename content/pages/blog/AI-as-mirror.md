@@ -1,6 +1,6 @@
 ---
 title: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
-slug: surround-yourself-with-right-people
+slug: AI-as-mirror
 date: '2024-03-26'
 excerpt: >-
   Starting a business is no small feat. It’s a journey filled with challenges,
