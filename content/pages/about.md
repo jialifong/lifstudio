@@ -119,7 +119,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: Strategic Focus
+      - title: Strategic Focus & ROI Optimization
         subtitle: ''
         text: |+
           Know what matters, what moves the needle, and how to act on it.
