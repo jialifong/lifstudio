@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /our-services
+        url: '#our-services'
         showIcon: false
         icon: arrowRight
         iconPosition: right
