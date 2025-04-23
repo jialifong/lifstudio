@@ -120,7 +120,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Strategic Focus
-        subtitle: Marketing
+        subtitle: ''
         text: |+
           Know what matters, what moves the needle, and how to act on it.
 
