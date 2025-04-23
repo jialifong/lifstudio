@@ -188,6 +188,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: /contact-form
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
       - title: Fractional Leadership
         tagline: EMBEDDED SUPPORT
         subtitle: >-
