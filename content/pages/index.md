@@ -90,7 +90,7 @@ sections:
         style: primary
         type: Button
       - label: Get in Touch
-        url: /
+        url: /contact-form
         showIcon: true
         icon: arrowRight
         iconPosition: right
