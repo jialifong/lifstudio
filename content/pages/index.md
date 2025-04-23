@@ -38,7 +38,7 @@ sections:
           - pr-16
     backgroundImage:
       type: BackgroundImage
-      altText: altText of the image
+      altText: ''
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
