@@ -151,6 +151,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: brand-strategy
       - title: Marketing Strategy
         tagline: STRATEGIC CLARITY
         subtitle: For brands who are doing a lot but aren't gaining traction.
