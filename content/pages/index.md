@@ -84,7 +84,7 @@ sections:
       Lif helps make that happen.
     actions:
       - label: About the Studio
-        url: /
+        url: /about
         icon: arrowRight
         iconPosition: right
         style: primary
