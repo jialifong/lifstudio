@@ -151,6 +151,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: brand-strategy
       - title: Marketing Strategy
         tagline: STRATEGIC CLARITY
         subtitle: For brands who are doing a lot but aren't gaining traction.
@@ -189,6 +190,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: marketing-strategy
       - title: Fractional Leadership
         tagline: EMBEDDED SUPPORT
         subtitle: >-
@@ -227,6 +229,7 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+        elementId: fractional-leadership
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
