@@ -21,7 +21,7 @@ seo:
   metaDescription: >-
     When your thoughts feel too close to untangle, AI helps reflect, shape, and
     clarify ideas—becoming a quiet partner in solo work and strategy.
-  socialImage: /images/abstract-feature1.svg
+  socialImage: /images/Homepage-hero.png
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
