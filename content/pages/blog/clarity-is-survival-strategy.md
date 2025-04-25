@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Why Clarity and Focus Aren’t Just Business Tools—They’re Survival Strategies
+title: Why Clarity is a Survival Strategy
 date: '2025-01-08'
 author: content/data/person1.json
 excerpt: >-
