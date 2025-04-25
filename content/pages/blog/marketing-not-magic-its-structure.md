@@ -17,7 +17,7 @@ featuredImage:
       borderRadius: medium
 isFeatured: false
 seo:
-  metaTitle: Marketing isn’t Magic. Its Structure
+  metaTitle: Marketing Isn’t Magic — It’s Structure | Lif Studio
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature2.svg
   type: Seo
