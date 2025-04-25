@@ -4,8 +4,12 @@ title: Why Clarity is a Survival Strategy
 date: '2025-01-08'
 author: content/data/person1.json
 excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+  When clarity is missing, even the best ideas struggle to gain traction. Smart
+  teams lose focus, momentum stalls, and constant action starts to feel like
+  survival mode. In both business and life, moving without alignment isn’t
+  progress—it’s just drifting with better time management. Clarity isn’t a
+  luxury; it’s the foundation for meaningful direction, effective strategy, and
+  sustainable growth.
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
