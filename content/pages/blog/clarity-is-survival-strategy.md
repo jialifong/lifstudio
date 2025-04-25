@@ -64,10 +64,43 @@ styles:
   self:
     flexDirection: col
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+#### *And what happens when we try to move without them.*
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+For years, I worked inside the structured worlds of big brands—growing market share, mentoring teams, launching campaigns with the support of briefs, budgets, and timelines.
+There were systems. Guardrails. Order, even in the chaos.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+
+Then I stepped into the world of early-stage startups. And everything changed.
+Faster pace. Fewer anchors. Higher stakes. 
+
+And a constant, unspoken pressure to move—now—before anyone really knew what “working” even looked like.
+Just create. Launch. Deliver. Repeat.
+The hustle was relentless. And the patterns became familiar:
+•	Great product. Little traction.
+•	Smart team. Scattered focus.
+•	Visionary founder. Stalled decisions.
+
+
+Again and again, one truth revealed itself:
+
+>
+> When clarity is missing, everything feels harder than it needs to.
+
+
+Not just in messaging, but in energy, direction, and how a team decides—or doesn’t.
+
+#### 
+**The Same Pattern Shows Up—In Business and In Life**
+
+
+Eventually, I felt it in my own work too. I was pivoting roles, adapting to change. Still delivering, still showing up. But something wasn’t clicking.
+And I defaulted to instinct: Survive first. Figure it out later. 
+
+Business has to go on as usual. Life does too.
+But surviving without clarity? It’s just drifting—with better time management.
+
+
+#### **What Breaks a Business Can Break a Person**
+
+
