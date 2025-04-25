@@ -17,7 +17,7 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
+  metaTitle: I Use AI the Way I Use Mirrors - To Notice What I wasn’t Seeing | Lif Studio
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   type: Seo
