@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
+title: Why Clarity and Focus Aren’t Just Business Tools—They’re Survival Strategies
 date: '2024-03-26'
 excerpt: >-
   When you work solo, clarity doesn’t come from brainstorms or boardrooms—it has
