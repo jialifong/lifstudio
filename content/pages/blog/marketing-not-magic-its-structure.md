@@ -18,7 +18,10 @@ featuredImage:
 isFeatured: false
 seo:
   metaTitle: Marketing Isn’t Magic — It’s Structure | Lif Studio
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: >-
+    Marketing that sticks isn’t about cleverness or charisma — it’s about
+    clarity and structure. Discover how sustainable brands build momentum
+    through message maps, rhythm, and repeatable strategy.
   socialImage: /images/abstract-feature2.svg
   type: Seo
 colors: bg-light-fg-dark
