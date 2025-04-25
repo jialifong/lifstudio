@@ -60,7 +60,9 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Why Clarity is a Survival Strategy
-  metaDescription: Why Clarity is a Survival Strategy | Lif Studio
+  metaDescription: >-
+    Discover why clarity is essential for business momentum and how Lif Studio
+    helps you achieve it.
   addTitleSuffix: false
   metaTags: []
   socialImage: /images/Website Image.png
