@@ -17,7 +17,7 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: Surround Yourself With the Right People
+  metaTitle: I Use AI the Way I Use Mirrors -  To Notice What I wasn’t Seeing
   metaDescription: You can add the excerpt and main keywords of your blog post here.
   socialImage: /images/abstract-feature1.svg
   type: Seo
