@@ -17,9 +17,12 @@ featuredImage:
       borderRadius: medium
 isFeatured: false
 seo:
-  metaTitle: The Top Ten Lessons We’ve Learned Since Our Initial Launch
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature2.svg
+  metaTitle: Marketing Isn’t Magic — It’s Structure | Lif Studio
+  metaDescription: >-
+    Marketing that sticks isn’t about cleverness or charisma — it’s about
+    clarity and structure. Discover how sustainable brands build momentum
+    through message maps, rhythm, and repeatable strategy.
+  socialImage: /images/Website Image (4).png
   type: Seo
 colors: bg-light-fg-dark
 styles:
