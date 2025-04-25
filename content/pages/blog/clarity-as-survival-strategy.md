@@ -11,7 +11,7 @@ excerpt: >-
   sustainable growth.
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/Website Image (1).png
   altText: Thumbnail
   styles:
     self:
