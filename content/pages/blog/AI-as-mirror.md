@@ -17,9 +17,11 @@ featuredImage:
     self:
       borderRadius: medium
 seo:
-  metaTitle: Surround Yourself With the Right People
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
-  socialImage: /images/abstract-feature1.svg
+  metaTitle: I Use AI the Way I Use Mirrors - To Notice What I wasn’t Seeing | Lif Studio
+  metaDescription: >-
+    When your thoughts feel too close to untangle, AI helps reflect, shape, and
+    clarify ideas—becoming a quiet partner in solo work and strategy.
+  socialImage: /images/Homepage-hero.png
   type: Seo
 colors: bg-light-fg-dark
 type: PostLayout
