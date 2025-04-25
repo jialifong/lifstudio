@@ -55,7 +55,7 @@ isFeatured: false
 isDraft: false
 seo:
   type: Seo
-  metaTitle: ''
+  metaTitle: Why Clarity is a Survival Strategy
   metaDescription: lorem-ipsum
   addTitleSuffix: false
   metaTags: []
