@@ -56,7 +56,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Why Clarity is a Survival Strategy
-  metaDescription: Why Clarity is a Survival Strategy
+  metaDescription: Why Clarity is a Survival Strategy | Lif Studio
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
