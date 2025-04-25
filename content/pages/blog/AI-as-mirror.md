@@ -18,7 +18,9 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: I Use AI the Way I Use Mirrors - To Notice What I wasn’t Seeing | Lif Studio
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: >-
+    When your thoughts feel too close to untangle, AI helps reflect, shape, and
+    clarify ideas—becoming a quiet partner in solo work and strategy.
   socialImage: /images/abstract-feature1.svg
   type: Seo
 colors: bg-light-fg-dark
