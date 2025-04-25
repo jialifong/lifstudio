@@ -22,7 +22,7 @@ seo:
     Marketing that sticks isn’t about cleverness or charisma — it’s about
     clarity and structure. Discover how sustainable brands build momentum
     through message maps, rhythm, and repeatable strategy.
-  socialImage: /images/abstract-feature2.svg
+  socialImage: /images/Website Image (4).png
   type: Seo
 colors: bg-light-fg-dark
 styles:
