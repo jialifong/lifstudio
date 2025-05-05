@@ -19,6 +19,7 @@ function Page(props) {
     const title = seoGenerateTitle(page, site);
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
+
     return (
         <>
             <Head>
@@ -26,7 +27,6 @@ function Page(props) {
                 {metaDescription && <meta name="description" content={metaDescription} />}
                 {metaTags.map((metaTag) => {
                     if (metaTag.format === 'property') {
-                        // OpenGraph meta tags (og:*) should be have the format <meta property="og:…" content="…">
                         return <meta key={metaTag.property} property={metaTag.property} content={metaTag.content} />;
                     }
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
@@ -41,7 +41,11 @@ function Page(props) {
 
 export function getStaticPaths() {
     const data = allContent();
-    const paths = resolveStaticPaths(data);
+
+    // ✅ Exclude the /contact page to avoid conflict with contact.tsx
+    const filteredData = data.filter((page) => page.__metadata?.urlPath !== '/contact');
+
+    const paths = resolveStaticPaths(filteredData);
     return { paths, fallback: false };
 }
 
