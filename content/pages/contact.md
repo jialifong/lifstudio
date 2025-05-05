@@ -10,34 +10,26 @@ sections:
     subtitle: >-
       Whether you're navigating change, refining your brand, or just thinking
       out loud—reach out.
-    text: |
+    text: >
       We’ll help you make sense of what matters, and move forward with focus.
 
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
         <input type="hidden" name="form-name" value="contact" />
         <input type="hidden" name="bot-field" />
 
-        <p>
-          <label>Name<br />
-            <input type="text" name="name" required />
-          </label>
-        </p>
+        <p><label>Name<br />
+          <input type="text" name="name" required />
+        </label></p>
 
-        <p>
-          <label>Email<br />
-            <input type="email" name="email" required />
-          </label>
-        </p>
+        <p><label>Email<br />
+          <input type="email" name="email" required />
+        </label></p>
 
-        <p>
-          <label>Message<br />
-            <textarea name="message" required></textarea>
-          </label>
-        </p>
+        <p><label>Message<br />
+          <textarea name="message" required></textarea>
+        </label></p>
 
-        <p>
-          <button type="submit">Send</button>
-        </p>
+        <p><button type="submit">Send</button></p>
       </form>
     actions: []
     badge:
@@ -50,8 +42,8 @@ slug: /contact
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Landing Page
-  metaDescription: Write here your new page's description including most relevant keywords.
+  metaTitle: Contact
+  metaDescription: Reach out to discuss clarity, strategy, or collaboration.
   addTitleSuffix: true
   socialImage: /images/main-hero.jpg
   metaTags: []
