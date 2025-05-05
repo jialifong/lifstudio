@@ -59,6 +59,7 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
+    elementId: contact-form
 slug: /contact
 isDraft: false
 seo:
