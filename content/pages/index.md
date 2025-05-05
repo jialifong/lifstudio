@@ -303,7 +303,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Contact Us
         altText: ''
         url: /contact
         showIcon: false
