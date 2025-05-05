@@ -14,46 +14,34 @@ sections:
       We’ll help you make sense of what matters, and move forward with focus.
     actions: []
     media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Send Message
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+      type: CustomHtmlBlock
+      html: |
+        <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="contact" />
+          <input type="hidden" name="bot-field" />
+
+          <p>
+            <label>Name<br />
+              <input type="text" name="name" required />
+            </label>
+          </p>
+
+          <p>
+            <label>Email<br />
+              <input type="email" name="email" required />
+            </label>
+          </p>
+
+          <p>
+            <label>Message<br />
+              <textarea name="message" required></textarea>
+            </label>
+          </p>
+
+          <p>
+            <button type="submit">Send</button>
+          </p>
+        </form>
     badge:
       type: Badge
       label: Contact Us
