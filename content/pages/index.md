@@ -301,6 +301,16 @@ sections:
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /contact
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: RecentPostsSection
     title:
       type: TitleBlock
