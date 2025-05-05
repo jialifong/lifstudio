@@ -38,7 +38,7 @@ sections:
           width: full
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: Send Message
         icon: arrowRight
         iconPosition: right
         style: primary
