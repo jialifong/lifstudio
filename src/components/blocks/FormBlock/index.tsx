@@ -18,10 +18,15 @@ export default function FormBlock(props) {
 
         const data = new FormData(formRef.current);
         const value = Object.fromEntries(data.entries());
+        // You can optionally send this data elsewhere if needed
     }
 
     return (
         <form
+            name="contact"
+            method="POST"
+            data-netlify="true"
+            netlify-honeypot="bot-field"
             className={classNames(
                 'sb-component',
                 'sb-component-block',
@@ -38,16 +43,16 @@ export default function FormBlock(props) {
                     : undefined,
                 styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
             )}
-            name={elementId}
             id={elementId}
             onSubmit={handleSubmit}
             ref={formRef}
-            data-sb-field-path= {fieldPath}
+            data-sb-field-path={fieldPath}
         >
             <div
                 className={classNames('w-full', 'flex', 'flex-wrap', 'gap-8', mapStyles({ justifyContent: styles?.self?.justifyContent ?? 'flex-start' }))}
                 {...(fieldPath && { 'data-sb-field-path': '.fields' })}
             >
+                <input type="hidden" name="bot-field" />
                 <input type="hidden" name="form-name" value={elementId} />
                 {fields.map((field, index) => {
                     const modelName = field.__metadata.modelName;
