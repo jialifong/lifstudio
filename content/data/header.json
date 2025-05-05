@@ -67,7 +67,7 @@
             "altText": "Play",
             "url": "/contact",
             "showIcon": true,
-            "icon": "mail",
+            "icon": "",
             "iconPosition": "right",
             "style": "secondary",
             "elementId": ""
