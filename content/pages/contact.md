@@ -7,7 +7,9 @@ sections:
       type: TitleBlock
       text: Clarity Starts with a Conversation
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: >-
+      Whether you're navigating change, refining your brand, or just thinking
+      out loud—reach out.
     text: |
       We’ll help you make sense of what matters and move forward with focus.
     actions: []
