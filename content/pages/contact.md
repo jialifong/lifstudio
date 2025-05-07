@@ -10,7 +10,7 @@ sections:
     subtitle: >-
       Whether you're navigating change, refining your brand, or just thinking
       out loud—reach out.
-    text: >
+    text: |
       We’ll help you make sense of what matters, and move forward with focus.
 
       <form name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
