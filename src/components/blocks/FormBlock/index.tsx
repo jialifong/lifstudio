@@ -20,18 +20,11 @@ export default function FormBlock(props) {
     return null;
   }
 
-  function handleSubmit(event) {
-    event.preventDefault();
-
-    const data = new FormData(formRef.current);
-    const value = Object.fromEntries(data.entries());
-    // Optional: You could send this data elsewhere if needed (e.g., fetch API)
-  }
-
   return (
     <form
       name="contact"
       method="POST"
+      action="/"
       data-netlify="true"
       netlify-honeypot="bot-field"
       className={classNames(
@@ -51,7 +44,6 @@ export default function FormBlock(props) {
         styles?.self?.borderRadius ? mapStyles({ borderRadius: styles?.self?.borderRadius }) : undefined
       )}
       id={elementId}
-      onSubmit={handleSubmit}
       ref={formRef}
       data-sb-field-path={fieldPath}
     >
