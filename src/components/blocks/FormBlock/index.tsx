@@ -24,7 +24,7 @@ export default function FormBlock(props) {
     <form
       name="contact"
       method="POST"
-      action="/"
+      action="/form.html"
       data-netlify="true"
       netlify-honeypot="bot-field"
       className={classNames(
