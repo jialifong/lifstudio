@@ -46,14 +46,7 @@ function Page(props) {
 
 export function getStaticPaths() {
   const data = allContent();
-
-  // ✅ Exclude /contact from dynamic routing to avoid conflict
-  const filteredPages = data.pages.filter(
-    (page) => page.__metadata?.urlPath !== '/contact'
-  );
-  const filteredData = { ...data, pages: filteredPages };
-
-  const paths = resolveStaticPaths(filteredData);
+  const paths = resolveStaticPaths(data);
   return { paths, fallback: false };
 }
 
