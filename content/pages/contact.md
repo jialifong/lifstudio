@@ -89,6 +89,15 @@ sections:
         showIcon: false
       - type: Link
         label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+      - type: Link
+        label: See Tutorials
         url: /
         showIcon: true
         icon: arrowRight
