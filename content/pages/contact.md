@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Let's find it together.
+    subtitle: Let's uncover it together.
     text: ''
     actions: []
     colors: bg-neutral-fg-dark
