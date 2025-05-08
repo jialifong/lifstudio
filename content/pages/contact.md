@@ -111,7 +111,7 @@ sections:
         url: 'mailto:hello@lifstudio.com'
         showIcon: true
         icon: mail
-        iconPosition: right
+        iconPosition: left
         style: secondary
         elementId: ''
       - type: Link
