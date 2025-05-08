@@ -5,6 +5,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Clarity Unlocks What's Next
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Let's take it together.
+    text: ''
+    actions: []
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Clarity Starts with a Conversation.
       color: text-dark
     subtitle: >-
@@ -60,24 +78,6 @@ sections:
       color: text-primary
     colors: bg-light-fg-dark
     elementId: contact-form
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Clarity Unlocks What's Next
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Let's take it together.
-    text: ''
-    actions: []
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
