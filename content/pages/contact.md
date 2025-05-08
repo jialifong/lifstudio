@@ -107,7 +107,7 @@ sections:
         style: secondary
       - type: Link
         label: Send email
-        altText: Play
+        altText: ''
         url: 'mailto:hello@lifstudio.com'
         showIcon: true
         icon: mail
