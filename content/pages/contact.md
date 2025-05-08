@@ -79,7 +79,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Let's take it together.
     text: ''
     actions: []
     colors: bg-light-fg-dark
