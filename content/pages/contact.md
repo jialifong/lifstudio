@@ -90,7 +90,7 @@ sections:
       - type: Link
         label: Send email
         altText: Play
-        url: '/mailto:hello@lifstudio.com'
+        url: 'mailto:hello@lifstudio.com'
         showIcon: true
         icon: mail
         iconPosition: left
