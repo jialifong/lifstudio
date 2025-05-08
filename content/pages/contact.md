@@ -99,8 +99,7 @@ sections:
         elementId: ''
       - type: Link
         label: Leave Feedback
-        url: >-
-          https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
+        url: 'https://tally.so/r/mVd86y'
         showIcon: true
         icon: arrowRight
         iconPosition: left
