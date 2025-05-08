@@ -82,7 +82,8 @@ sections:
     actions:
       - type: Button
         label: Book a Discovery Call
-        url: ''
+        url: >-
+          https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         icon: arrowRight
         iconPosition: right
         style: primary
