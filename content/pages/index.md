@@ -362,5 +362,6 @@ seo:
     and scalable systems.
   socialImage: /images/Website Image (1).png
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
