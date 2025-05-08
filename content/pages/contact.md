@@ -73,7 +73,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Other Ways to Reach Us
+      text: ''
       color: text-dark
     subtitle: >-
       If forms aren’t your thing — or you already know what you need — here are
