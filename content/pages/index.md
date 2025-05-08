@@ -357,7 +357,9 @@ sections:
     subtitle: Field Notes from the Studio - in Work and Life
 seo:
   metaTitle: Lif Studio | Clarity for Growth
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: >-
+    Lif Studio helps brands grow with clarity — through strategy, storytelling,
+    and scalable systems.
   socialImage: /images/Website Image (1).png
   type: Seo
 type: PageLayout
