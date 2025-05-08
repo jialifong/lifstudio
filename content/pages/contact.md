@@ -105,7 +105,7 @@ sections:
           https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
       - type: Link
         label: Send email
         altText: ''
