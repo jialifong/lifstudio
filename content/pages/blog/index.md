@@ -2,7 +2,7 @@
 title: Blog | Lif Studio
 slug: /blog
 numOfPostsPerPage: 8
-enableSearch: true
+enableSearch: false
 topSections: []
 styles:
   title:
