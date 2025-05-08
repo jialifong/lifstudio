@@ -358,8 +358,8 @@ sections:
 seo:
   metaTitle: Lif Studio | Clarity for Growth
   metaDescription: >-
-    Lif Studio helps brands grow with clarity — through strategy, storytelling,
-    and scalable systems.
+    Lif Studio brings clarity for growth — across brand, marketing, and the
+    strategic decisions that drive them.
   socialImage: /images/Lif Website Image.png
   type: Seo
   addTitleSuffix: false
