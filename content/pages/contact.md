@@ -108,7 +108,7 @@ sections:
       altText: Dope design preview
     badge:
       type: Badge
-      label: KNOW WHAT YOU NEED?
+      label: PREFER ANOTHWER WAY TO REACH US?
       color: text-primary
     colors: bg-light-fg-dark
     styles:
