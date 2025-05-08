@@ -119,7 +119,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Clarity unlocks what’s next.
       color: text-dark
       styles:
         self:
