@@ -86,6 +86,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        showIcon: false
       - type: Link
         label: See Tutorials
         url: /
