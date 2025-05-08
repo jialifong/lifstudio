@@ -118,7 +118,7 @@ sections:
       altText: Fun feature preview
     badge:
       type: Badge
-      label: OTHER WAYS TO CONNECT
+      label: OTHER WAYS TO REACH US
       color: text-primary
     colors: bg-light-fg-dark
     styles:
