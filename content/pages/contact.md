@@ -75,7 +75,9 @@ sections:
       type: TitleBlock
       text: Business Consulting
       color: text-dark
-    subtitle: Be in good company
+    subtitle: >-
+      If forms aren’t your thing — or you already know what you need — here are
+      a few other ways to connect.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
