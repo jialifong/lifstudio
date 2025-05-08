@@ -99,7 +99,7 @@ sections:
       - type: Link
         label: Leave Feedback
         url: >-
-          /https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
+          https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         showIcon: true
         icon: arrowRight
         iconPosition: left
