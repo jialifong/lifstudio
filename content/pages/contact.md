@@ -119,7 +119,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Clarity unlocks what’s next. Let’s take it together.
+      text: Clarity unlocks what’s next.
       color: text-dark
       styles:
         self:
