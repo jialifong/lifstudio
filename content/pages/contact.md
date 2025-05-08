@@ -73,7 +73,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Other Ways to Reach Us
       color: text-dark
     subtitle: >-
       If forms aren’t your thing — or you already know what you need — here are
