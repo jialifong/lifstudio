@@ -82,7 +82,7 @@ sections:
     actions:
       - type: Button
         label: Book a Discovery Call
-        url: /
+        url: ''
         icon: arrowRight
         iconPosition: right
         style: primary
