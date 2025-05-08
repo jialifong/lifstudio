@@ -82,7 +82,7 @@ sections:
     subtitle: Let's take it together.
     text: ''
     actions: []
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         flexDirection: row
