@@ -106,6 +106,15 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
+        label: Send email
+        altText: Play
+        url: 'mailto:hello@lifstudio.com'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
+      - type: Link
         label: Leave Feedback
         url: 'https://tally.so/r/mVd86y'
         showIcon: true
