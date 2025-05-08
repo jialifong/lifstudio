@@ -73,6 +73,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Clarity unlocks what’s next.
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Let’s take it together.
+    text: ''
+    actions: []
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: ''
       color: text-dark
     subtitle: >-
@@ -116,24 +134,6 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Clarity unlocks what’s next.
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Let’s take it together.
-    text: ''
-    actions: []
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
 slug: /contact
 isDraft: false
 seo:
