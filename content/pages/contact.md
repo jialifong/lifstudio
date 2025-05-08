@@ -12,16 +12,7 @@ sections:
       out loud—reach out.
     text: |
       We’ll help you make sense of what matters and move forward with focus.
-    actions:
-      - type: Link
-        label: Send email
-        altText: Play
-        url: '/mailto:hello@lifstudio.com'
-        showIcon: true
-        icon: mail
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: FormBlock
       fields:
