@@ -101,7 +101,8 @@ sections:
     actions:
       - type: Button
         label: Get started
-        url: ''
+        url: >-
+          https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         icon: arrowRight
         iconPosition: right
         style: secondary
