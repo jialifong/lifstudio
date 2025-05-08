@@ -64,7 +64,7 @@ slug: /contact
 isDraft: false
 seo:
   type: Seo
-  metaTitle: Contact
+  metaTitle: Contact | Lif Studio
   metaDescription: 'Reach out to discuss clarity, strategy, or collaboration.'
   addTitleSuffix: false
   socialImage: /images/Lif Website Image.png
