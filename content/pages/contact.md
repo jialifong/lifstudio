@@ -93,6 +93,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Link
+        label: Send email
+        altText: Play
+        url: '/mailto:hello@lifstudio.com'
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       type: ImageBlock
       altText: Dope design preview
