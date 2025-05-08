@@ -5,6 +5,24 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: Clarity unlocks what’s next.
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Let’s take it together.
+    text: ''
+    actions: []
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: Clarity Starts with a Conversation
       color: text-dark
     subtitle: >-
@@ -59,24 +77,6 @@ sections:
       label: Let's Connect
       color: text-primary
     colors: bg-light-fg-dark
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Clarity unlocks what’s next.
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-    subtitle: Let’s take it together.
-    text: ''
-    actions: []
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
   - type: DividerSection
     title: Divider
     elementId: ''
