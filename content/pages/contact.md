@@ -124,7 +124,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: ''
+    subtitle: Let’s take it together.
     text: ''
     actions: []
     colors: bg-light-fg-dark
