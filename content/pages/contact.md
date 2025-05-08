@@ -100,7 +100,7 @@ sections:
       posts.
     actions:
       - type: Button
-        label: Get started
+        label: Book a Discovery Call
         url: >-
           https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         icon: arrowRight
