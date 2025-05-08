@@ -98,7 +98,8 @@ sections:
         elementId: ''
       - type: Link
         label: Leave Feedback
-        url: /
+        url: >-
+          /https://calendly.com/hellolifstudio/discovery-call-clone?share_attribution=expiring_link
         showIcon: true
         icon: arrowRight
         iconPosition: left
