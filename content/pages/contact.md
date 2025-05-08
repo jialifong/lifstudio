@@ -92,7 +92,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: ''
         iconPosition: right
         style: primary
         elementId: ''
