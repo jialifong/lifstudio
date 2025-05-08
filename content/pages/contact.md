@@ -85,7 +85,7 @@ sections:
         url: /
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         showIcon: false
       - type: Link
         label: Send email
