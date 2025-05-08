@@ -100,7 +100,7 @@ sections:
         label: Leave Feedback
         url: /
         showIcon: true
-        icon: send
+        icon: arrowRight
         iconPosition: right
         style: secondary
     media:
