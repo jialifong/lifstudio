@@ -66,7 +66,7 @@ seo:
   type: Seo
   metaTitle: Contact
   metaDescription: 'Reach out to discuss clarity, strategy, or collaboration.'
-  addTitleSuffix: true
+  addTitleSuffix: false
   socialImage: /images/Lif Website Image.png
   metaTags: []
 ---
