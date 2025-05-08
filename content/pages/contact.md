@@ -81,7 +81,7 @@ sections:
     text: ''
     actions:
       - type: Button
-        label: Get started
+        label: Book a Discovery Call
         url: /
         icon: arrowRight
         iconPosition: right
