@@ -107,7 +107,7 @@ sections:
         style: secondary
       - type: Link
         label: Leave Feedback
-        url: /
+        url: 'https://tally.so/r/mVd86y'
         showIcon: true
         icon: arrowRight
         iconPosition: left
