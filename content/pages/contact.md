@@ -102,7 +102,7 @@ sections:
         showIcon: false
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
       - type: Link
         label: Send email
         altText: Play
