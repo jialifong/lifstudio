@@ -88,13 +88,6 @@ sections:
         style: secondary
         showIcon: false
       - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: send
-        iconPosition: right
-        style: secondary
-      - type: Link
         label: Send email
         altText: Play
         url: '/mailto:hello@lifstudio.com'
@@ -103,6 +96,13 @@ sections:
         iconPosition: right
         style: secondary
         elementId: ''
+      - type: Link
+        label: See Tutorials
+        url: /
+        showIcon: true
+        icon: send
+        iconPosition: right
+        style: secondary
     media:
       type: ImageBlock
       altText: Dope design preview
