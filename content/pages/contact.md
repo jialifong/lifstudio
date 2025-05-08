@@ -65,7 +65,7 @@ isDraft: false
 seo:
   type: Seo
   metaTitle: Contact | Lif Studio
-  metaDescription: 'Reach out to discuss clarity, strategy, or collaboration.'
+  metaDescription: Connect with Lif Studio — clarity starts with a conversation.
   addTitleSuffix: false
   socialImage: /images/Lif Website Image.png
   metaTags: []
