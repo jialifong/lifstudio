@@ -78,9 +78,7 @@ sections:
     subtitle: >-
       If forms aren’t your thing — or you already know what you need — here are
       a few other ways to connect.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: ''
     actions:
       - type: Button
         label: Get started
