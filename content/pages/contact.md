@@ -74,7 +74,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Clarity Unlocks What's Next
       color: text-dark
       styles:
         self:
