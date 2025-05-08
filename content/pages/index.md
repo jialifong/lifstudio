@@ -356,7 +356,7 @@ sections:
         textAlign: center
     subtitle: Field Notes from the Studio - in Work and Life
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Lif Studio | Clarity for Growth
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/Website Image (1).png
   type: Seo
