@@ -100,7 +100,7 @@ sections:
         label: See Tutorials
         url: /
         showIcon: true
-        icon: arrowRight
+        icon: send
         iconPosition: right
         style: secondary
       - type: Link
