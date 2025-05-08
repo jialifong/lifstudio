@@ -101,7 +101,7 @@ sections:
         url: /
         showIcon: true
         icon: arrowRight
-        iconPosition: right
+        iconPosition: left
         style: secondary
     media:
       type: ImageBlock
