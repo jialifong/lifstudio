@@ -99,7 +99,7 @@ sections:
       - type: Link
         label: See Tutorials
         url: /
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
