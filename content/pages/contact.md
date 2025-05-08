@@ -94,7 +94,9 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: >-
+      If forms aren’t your thing — or you already know what you need — here are
+      a few other ways to connect.
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
