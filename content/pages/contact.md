@@ -97,7 +97,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: See Tutorials
+        label: Leave Feedback
         url: /
         showIcon: true
         icon: send
