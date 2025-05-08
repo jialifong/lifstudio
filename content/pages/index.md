@@ -360,7 +360,7 @@ seo:
   metaDescription: >-
     Lif Studio helps brands grow with clarity — through strategy, storytelling,
     and scalable systems.
-  socialImage: /images/Website Image (1).png
+  socialImage: /images/Lif Website Image.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
