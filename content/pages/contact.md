@@ -106,7 +106,7 @@ sections:
         iconPosition: right
         style: secondary
       - type: Link
-        label: See Tutorials
+        label: Leave Feedback
         url: /
         showIcon: true
         icon: arrowRight
