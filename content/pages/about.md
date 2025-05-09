@@ -228,7 +228,9 @@ sections:
     type: FeaturedItemsSection
 seo:
   metaTitle: About | Lif Studio
-  metaDescription: This is the careers page built with Netlify Create.
+  metaDescription: >-
+    A brand clarity consultancy rooted in strategy, story, and clear
+    foundations.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
