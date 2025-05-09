@@ -231,7 +231,7 @@ seo:
   metaDescription: >-
     A brand clarity consultancy rooted in strategy, story, and clear
     foundations.
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/Lif Website Image.png
   type: Seo
   addTitleSuffix: false
 type: PageLayout
