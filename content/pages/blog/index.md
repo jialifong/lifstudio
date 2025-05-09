@@ -8,7 +8,7 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: Blog | Lif Studio
   metaDescription: >-
     This is the blog of the demo site where we post about technology, product,
     and design.
