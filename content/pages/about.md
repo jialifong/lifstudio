@@ -227,7 +227,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
+  metaTitle: About | Lif Studio
   metaDescription: This is the careers page built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
