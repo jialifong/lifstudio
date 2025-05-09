@@ -12,7 +12,7 @@ seo:
   metaDescription: >-
     Insights and thoughts on building with clarity — across brand, marketing,
     and growth.
-  socialImage: /images/img-placeholder.svg
+  socialImage: /images/Lif Website Image.png
   type: Seo
   addTitleSuffix: false
 type: PostFeedLayout
