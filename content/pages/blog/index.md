@@ -10,8 +10,8 @@ styles:
 seo:
   metaTitle: Blog | Lif Studio
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    Insights and thoughts on building with clarity — across brand, marketing,
+    and growth.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
