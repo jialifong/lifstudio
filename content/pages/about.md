@@ -227,9 +227,12 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
 seo:
-  metaTitle: Careers - Demo site
-  metaDescription: This is the careers page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: About | Lif Studio
+  metaDescription: >-
+    A brand clarity consultancy rooted in strategy, story, and clear
+    foundations.
+  socialImage: /images/Lif Website Image.png
   type: Seo
+  addTitleSuffix: false
 type: PageLayout
 ---
